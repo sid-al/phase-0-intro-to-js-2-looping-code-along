@@ -1,5 +1,5 @@
 
-
+const array = (["Guadalupe", "Ollie", "Aki"],"surprise")
 function writeCards(arry, event){
     let newArry = [];
     for (let i=0; i<arry.length; i++){
